@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e8231dfb-9288-4dc0-b4c0-0a35f82a9a73}</ProjectGuid>
+    <ProjectGuid>{97b01710-6a20-42cb-805e-2427b343526f}</ProjectGuid>
     <RootNamespace>My001AR47Start</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
